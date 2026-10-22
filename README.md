@@ -1,6 +1,6 @@
 # Repeated Measures Utilization in Horticulture
 
-A Streamlit app that enables horticultural researcher to complete their own power calculations 
+A Streamlit app that enables horticultural researchers to complete their own power calculations 
 and better plan repeated measures experiments to discern intended effects.
 
 **Author:** Rose Elbert, Michigan State University · CMSE 830 Midterm, Fall 2026
