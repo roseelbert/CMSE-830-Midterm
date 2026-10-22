@@ -1,3 +1,4 @@
+'''
 # CMSE-830-Midterm
 Repeated Measures Utilization in Horticulture/
 ├── README.md
@@ -9,3 +10,4 @@ necessary data files:
 │   └── rm_required_n.csv           # n needed for 80% power over the same gridestions
 ├── optional notebooks          # supplemental abstract, EDAs, and static figures
 │   └── Elbert_Midterm.ipynb
+'''
