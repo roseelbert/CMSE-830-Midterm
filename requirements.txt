@@ -1,0 +1,6 @@
+streamlit>=1.30
+numpy
+pandas>=2.1
+scipy
+matplotlib
+statsmodels
