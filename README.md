@@ -3,6 +3,8 @@
 A Streamlit app that enables horticultural researchers to complete their own power calculations 
 and better plan repeated measures experiments to discern intended effects.
 
+link: https://cmse-830-midterm-sbzmpkxlgt6ldnskdbcatx.streamlit.app/
+
 **Author:** Rose Elbert, Michigan State University · CMSE 830 Midterm, Fall 2026
 
 **Question:** How do power and required sample size change with the number of
