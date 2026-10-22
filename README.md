@@ -49,4 +49,7 @@ streamlit run app2.py
 ## AI use
 
 Claude (Anthropic) helped write the Python/Streamlit code. The project question, data,
+analysis decisions, and interpretation are my own. Claude (Anthropic) helped write the Python/Streamlit 
+code and with the formatting for this readme. I checked the power calculations against simulation and in R, and read the SciPy
+and statsmodels documentation for unfamiliar functions. The project question, data,
 analysis decisions, and interpretation are my own.
